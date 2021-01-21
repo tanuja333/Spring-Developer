@@ -1,0 +1,2 @@
+# Spring-Developer
+Spring is a popular and fast-growing application framework and inversion-of-control (IOC) container for the Java platform. The framework's core features can be used by any Java application and are ideal for enterprise and web app development. Learn how to get started with Spring using Spring Boot to build dynamic, data-driven applications. This path requires basic fluency in Java, covered in our Become a Java Programmer learning path.
